@@ -1,8 +1,7 @@
 # Free Parking Space App With Azure Custom Vision
 
-This a demo example of the use of **Azure Custom Vision** Object Detection model to count the number of cars in
-a parking lot. We can determine the occupation of zones in a parking lot and have the number of free parking places.
-We can get the number of cars as well who are entering or leaving the parking lot.
+This is a demo example of the use of **Azure Custom Vision** Object Detection model to count the number of cars in a parking lot. 
+We can determine the occupation of zones in a parking lot and have the number of free parking places. We can get the number of cars as well who are entering or leaving the parking lot.
 
 Azure Custom Vision is a no code interface for building, training and deploying Image Classification or Object Detection models.
 www.customvision.ai
