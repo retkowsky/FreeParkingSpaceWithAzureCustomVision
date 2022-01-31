@@ -9,7 +9,7 @@ Azure Custom Vision is a no code interface for building, training and deploying 
 www.customvision.ai
 
 Documentation:
-https://docs.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/overview#:~:text=Azure%20Custom%20Vision%20is%20an%20image%20recognition%20service,to%20images%2C%20according%20to%20their%20detected%20visual%20characteristics.
+https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/
 
 **Results:**
 <img src = "images/result.jpg">
