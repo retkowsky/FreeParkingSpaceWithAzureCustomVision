@@ -12,12 +12,15 @@ Documentation:
 https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/
 
 **Results:**
+<br>
 <img src = "images/result.jpg">
 <br><br>
 **Tagging the images for the object detection model with Azure Custom Vision:**
+<br>
 <img src = "cv1.jpg">
 <br><br>
 **Azure Custom Vision model quality metrics:**
+<br>
 <img src = "cv2.jpg">
 
 
